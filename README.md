@@ -9,7 +9,7 @@ Conheça SQL, uma linguagem estruturada para consultas a bancos de dados relacio
 - Realizando consultas mais avançadas com a linguagem SQL
 - Buscando diferentes tipos de informação em um banco de dados
 - Conhecendo funções específicas para lidar com dados de todos os tipos
-- Criando condições e filtros complexos em nas consultas
+- Criando condições e filtros complexos nas consultas
 - Entendendo a lógica por trás das consultas SQL
 
 ### O conteúdo
