@@ -14,7 +14,7 @@ Conheça SQL, uma linguagem estruturada para consultas a bancos de dados relacio
 
 ### O conteúdo
 
-Neste curso, vamos explorar de forma mais aprofundada as consultas: como estruturar uma consulta e quais tipos de informações podemos obter com as consultas. Para isso, vamos aprender:
+Neste curso, foi explorado de forma mais aprofundada as consultas: como estruturar uma consulta e quais tipos de informações podemos obter com as consultas. Para isso, aprendi:
 
 - Novas cláusulas e expressões SQL;
 - Funções específicas para lidar com todo tipo de dado, seja ele do tipo texto ou data;
