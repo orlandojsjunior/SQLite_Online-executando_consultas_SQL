@@ -13,3 +13,16 @@ WHERE curso = 'O poder';
 
 SELECT * FROM Treinamento
 WHERE curso LIKE 'O poder%';
+
+
+SELECT * FROM Treinamento
+WHERE curso LIKE '%realizar%';
+
+
+-- Filtrando colaboradores
+
+SELECT * FROM Colaboradores 
+
+
+SELECT * FROM Colaboradores
+WHERE Nome LIKE 'Isadora%';
