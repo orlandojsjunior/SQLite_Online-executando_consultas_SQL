@@ -21,6 +21,6 @@ Neste curso, foi explorado de forma mais aprofundada as consultas: como estrutur
 
 ### O projeto
 
-Tudo isso será feito usando uma base de dados de uma empresa de RH, a Fokus, para atender as demandas dela. Ela tem várias perguntas e informações que precisamos extrair do banco de dados dela, e nós utilizaremos a linguagem SQL para consultas mais estruturadas para conseguirmos obter essas informações.
+Tudo isso foi feito usando uma base de dados de uma empresa de RH, a Fokus, para atender as demandas dela. Ela tem várias perguntas e informações que precisamos extrair do banco de dados dela, e foi utilizado a linguagem SQL para consultas mais estruturadas para conseguirmos obter essas informações.
 
 ## [Documentação Sqlite](https://www.sqlite.org/docs.html)
