@@ -12,7 +12,7 @@ FROM Colaboradores
 WHERE qtd = 11;
 
 /*
- A função LENGTH é uma ferramenta útil em SQL para determinar o tamanho de uma cadeia de caracteres (string) ou o número de bytes em um valor binário
+A função LENGTH é uma ferramenta útil em SQL para determinar o tamanho de uma cadeia de caracteres (string) ou o número de bytes em um valor binário
 */ 
 
 -- Criando pequenos textos com a função CONCAT
