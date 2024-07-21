@@ -5,13 +5,20 @@ Como podemos fazer filtrar apenas as pessoas cujos campos estejam NULL na DataTe
 */
 
 -- trazendo dados nulos na tabela / coluna
-SELECT * FROM HistoricoEmprego
-WHERE datatermino ISNULL
-ORDER BY salario DESC
-LIMIT 5;
+SELECT
+    *
+FROM
+    HISTORICOEMPREGO
+WHERE
+    DATATERMINO ISNULL
+ORDER BY
+    SALARIO DESC LIMIT 5;
 
-
-SELECT * FROM HistoricoEmprego
-WHERE datatermino NOTNULL
-ORDER BY salario DESC
-LIMIT 5;
+SELECT
+    *
+FROM
+    HISTORICOEMPREGO
+WHERE
+    DATATERMINO NOTNULL
+ORDER BY
+    SALARIO DESC LIMIT 5;
