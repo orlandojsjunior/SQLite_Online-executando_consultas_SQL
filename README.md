@@ -2,7 +2,9 @@
 
  SQL, uma linguagem estruturada para consultas a bancos de dados relacionais, que nos permite consultar e manipular os dados.
 
-Nesta formação, você aprenderá a criar e gerenciar bancos de dados e tabelas, realizando operações diversas como consultas, atualizações e exclusão de dados. Aprofundaremos nas técnicas de filtragem para busca eficiente de informações, exploraremos recursos avançados para a elaboração de relatórios detalhados, e finalizaremos com a aplicação de SQL na análise de dados, proporcionando uma compreensão abrangente e prática da gestão de dados com SQL.
+<div style="text-align: justify;">
+    Nesta formação, você aprenderá a criar e gerenciar bancos de dados e tabelas, realizando operações diversas como consultas, atualizações e exclusão de dados. Aprofundaremos nas técnicas de filtragem para busca eficiente de informações, exploraremos recursos avançados para a elaboração de relatórios detalhados, e finalizaremos com a aplicação de SQL na análise de dados, proporcionando uma compreensão abrangente e prática da gestão de dados com SQL.
+</div>
 
 ## [Curso de SQLite Online: executando consultas SQL](https://cursos.alura.com.br/course/sqlite-online-executando-consultas-sql)
 
